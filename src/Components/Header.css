@@ -1,0 +1,14 @@
+.header-mar {
+    margin: auto!important;
+    
+}
+.headr-text{
+    font-size: 2rem;
+    color: aliceblue;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.2;
+}
+.tl-Cent {
+    text-align: center;
+}
